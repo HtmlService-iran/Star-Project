@@ -10,7 +10,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#-tech-stack)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#-tech-stack)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#-tech-stack)
-[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0f380f&logo=gamepad&logoColor=white)](#-my-games)
+[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0f380f&logo=gamepad&logoColor=white)](#-games)
 
 <br>
 
@@ -51,128 +51,25 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 
 ---
 
-## 🎮 My Games
+## 🎮 Games
 
-<div align="center">
-
-### ⏳ Something Awesome Is Coming...
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<h3>🎮 GAME #1</h3>
-
-<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
-
-<br><br>
-
-A brand new browser game is on the way.
-
-<br><br>
-
-`🎨 Pixel Graphics` • `🎮 Simple Controls`
-
-<br>
-
-[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0f380f)](#)
-
-</td>
-
-<td align="center" width="50%">
-
-<h3>🎮 GAME #2</h3>
-
-<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
-
-<br><br>
-
-Another fun game is being built right now.
-
-<br><br>
-
-`🕹️ Classic Style` • `📱 Mobile Friendly`
-
-<br>
-
-[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0f380f)](#)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-<h3>🎮 GAME #3</h3>
-
-<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
-
-<br><br>
-
-Stay tuned — this one will be worth the wait.
-
-<br><br>
-
-`🎯 Fun Gameplay` • `🏆 High Score`
-
-<br>
-
-[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0f380f)](#)
-
-</td>
-
-<td align="center" width="50%">
-
-<h3>🎮 GAME #4</h3>
-
-<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
-
-<br><br>
-
-A new challenge is almost ready to launch.
-
-<br><br>
-
-`🧠 Brain Teaser` • `⚡ Fast Paced`
-
-<br>
-
-[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0f380f)](#)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="100%" colspan="2">
-
-<h3>🎮 GAME #5</h3>
-
-<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
-
-<br><br>
-
-The final one is in the making — expect something special.
-
-<br><br>
-
-`✨ Surprise` • `🎁 Worth Waiting`
-
-<br>
-
-[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0f380f)](#)
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎮_GAME_#1-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 1">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎮_GAME_#2-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 2">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎮_GAME_#3-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 3">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎮_GAME_#4-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 4">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎮_GAME_#5-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 5">
+  </a>
+</p>
 
 ---
 
