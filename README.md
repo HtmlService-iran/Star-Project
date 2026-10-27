@@ -55,8 +55,9 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/🎮_GAME_#1-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 1">
-  </a>
+    <a href="https://htmlservice-iran.github.io/Star-Project/Game_File/Game_Html_1.html">
+  <img src="https://img.shields.io/badge/🎮_GAME_#1-PLAY_NOW-ff00c8?style=flat-square&labelColor=0a0e27" alt="Game 1">
+</a>
   <a href="#">
     <img src="https://img.shields.io/badge/🎮_GAME_#2-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 2">
   </a>
