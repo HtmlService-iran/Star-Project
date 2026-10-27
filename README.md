@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f380f&height=200&section=header&text=Mr.HTML&fontSize=50&fontColor=9bbc0f&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Game%20Lover&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f380f&height=200&section=header&text=Star%20Project&fontSize=50&fontColor=9bbc0f&animation=fadeIn&fontAlignY=38&desc=HTML%20%7C%20CSS%20%7C%20C%23%20%7C%20JavaScript%20%7C%20Web%20Game&descAlignY=58&descSize=18" width="100%"/>
 
 # 🎮 Hey, I'm Mr.HTML!
 
 ### Web Developer • Game Enthusiast • Website Creator 🚀
 
-[![Status](https://img.shields.io/badge/STATUS-BUILDING-8bac0f?style=for-the-badge&labelColor=0f380f)](#)
-[![Games](https://img.shields.io/badge/GAMES-COMING_SOON-yellow?style=for-the-badge)](#-my-games)
-[![Vanilla JS](https://img.shields.io/badge/VANILLA_JS-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#-tech-stack)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#-tech-stack)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#-tech-stack)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#-tech-stack)
+[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0f380f&logo=gamepad&logoColor=white)](#-my-games)
 
 <br>
 
@@ -43,7 +45,7 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 ### 🌱 Currently
 
 - 🔨 Building new **web games** (coming soon!)
-- 📚 Learning more about **JavaScript** and **game logic**
+- 📚 Learning more about **JavaScript**, **C#**, and **game logic**
 - 🎨 Improving my **UI/UX design** skills
 - 💡 Exploring new ideas for **interactive websites**
 
@@ -178,12 +180,11 @@ The final one is in the making — expect something special.
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Canvas](https://img.shields.io/badge/Canvas_2D-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0f380f&logo=gamepad&logoColor=white)](#)
 
 </div>
 
@@ -193,9 +194,9 @@ The final one is in the making — expect something special.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msyady513-crypto&show_icons=true&theme=dark&bg_color=0f380f&title_color=9bbc0f&icon_color=8bac0f&text_color=e8f8a0&border_color=306230" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HtmlService-iran&show_icons=true&theme=dark&bg_color=0f380f&title_color=9bbc0f&icon_color=8bac0f&text_color=e8f8a0&border_color=306230" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyady513-crypto&layout=compact&theme=dark&bg_color=0f380f&title_color=9bbc0f&text_color=e8f8a0&border_color=306230" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtmlService-iran&layout=compact&theme=dark&bg_color=0f380f&title_color=9bbc0f&text_color=e8f8a0&border_color=306230" />
 
 </div>
 
@@ -205,7 +206,8 @@ The final one is in the making — expect something special.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-msyady513--crypto-181717?style=for-the-badge&logo=github)](https://github.com/msyady513-crypto)
+[![GitHub](https://img.shields.io/badge/GitHub-HtmlService--iran-181717?style=for-the-badge&logo=github)](https://github.com/HtmlService-iran)
+[![Project](https://img.shields.io/badge/Star--Project-8bac0f?style=for-the-badge&labelColor=0f380f&logo=github)](https://github.com/HtmlService-iran/Star-Project/)
 
 </div>
 
@@ -217,10 +219,10 @@ The final one is in the making — expect something special.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
 
-**🐛 [Report Bug](https://github.com/msyady513-crypto/Mr.HTML/issues)** • **💡 [Suggest Idea](https://github.com/msyady513-crypto/Mr.HTML/issues)**
+**[🐛 Report Bug](https://github.com/HtmlService-iran/Star-Project/issues)** • **[💡 Suggest Idea](https://github.com/HtmlService-iran/Star-Project/issues)**
 
 <br>
 
-<sub>Made with 💚 and ☕ by [Mr.HTML](https://github.com/msyady513-crypto)</sub>
+<sub>Made with 💚 and ☕ by [Mr.HTML](https://github.com/HtmlService-iran)</sub>
 
 </div>
