@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f380f&height=200&section=header&text=Star%20Project&fontSize=50&fontColor=9bbc0f&animation=fadeIn&fontAlignY=38&desc=HTML%20%7C%20CSS%20%7C%20C%23%20%7C%20JavaScript%20%7C%20Web%20Game&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27&height=200&section=header&text=Star%20Project&fontSize=55&fontColor=a29bfe&animation=fadeIn&fontAlignY=38&desc=HTML%20%7C%20CSS%20%7C%20C%23%20%7C%20JavaScript%20%7C%20Web%20Game&descAlignY=58&descSize=16" width="100%"/>
 
 # 🎮 Hey, I'm Mr.HTML!
 
@@ -10,7 +10,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#-tech-stack)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#-tech-stack)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#-tech-stack)
-[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0f380f&logo=gamepad&logoColor=white)](#-games)
+[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0a0e27&logo=gamepad&logoColor=white)](#-games)
 
 <br>
 
@@ -53,24 +53,126 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 
 ## 🎮 Games
 
-<p align="center">
-  <a href="#">
-    <a href="https://htmlservice-iran.github.io/Star-Project/Game_File/Game_Html_1.html">
-  <img src="https://img.shields.io/badge/🎮_GAME_1-PLAY_NOW-ff00c8?style=flat-square&labelColor=0a0e27" alt="Game 1">
-</a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🎮_GAME_#2-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 2">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🎮_GAME_#3-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 3">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🎮_GAME_#4-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 4">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🎮_GAME_#5-COMING_SOON-yellow?style=flat-square&labelColor=0f380f" alt="Game 5">
-  </a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h3>🎮 NEON BREAKER</h3>
+
+<img src="https://img.shields.io/badge/READY_TO_PLAY-ff00c8?style=for-the-badge" alt="ready">
+
+<br><br>
+
+A fast-paced neon-themed brick breaker game.
+
+<br><br>
+
+`🎨 Neon Graphics` • `⚡ Power-Ups` • `🏆 Combo System`
+
+<br>
+
+### [![PLAY NOW](https://img.shields.io/badge/PLAY_NOW-ff00c8?style=for-the-badge&labelColor=0a0e27&logo=gamepad&logoColor=white)](https://htmlservice-iran.github.io/Star-Project/Game_File/Game_Html_1.html)
+
+**[👆 Click here to play!](https://htmlservice-iran.github.io/Star-Project/Game_File/Game_Html_1.html)**
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>🎮 GAME 2</h3>
+
+<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
+
+<br><br>
+
+Something new is on the way.
+
+<br><br>
+
+`⏳ In Development`
+
+<br>
+
+[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0a0e27)](#)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<h3>🎮 GAME 3</h3>
+
+<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
+
+<br><br>
+
+A new challenge is being built.
+
+<br><br>
+
+`⏳ In Development`
+
+<br>
+
+[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0a0e27)](#)
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>🎮 GAME 4</h3>
+
+<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
+
+<br><br>
+
+Stay tuned for this one.
+
+<br><br>
+
+`⏳ In Development`
+
+<br>
+
+[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0a0e27)](#)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100%" colspan="2">
+
+<h3>🎮 GAME 5</h3>
+
+<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
+
+<br><br>
+
+The final one is in the making — expect something special.
+
+<br><br>
+
+`⏳ In Development`
+
+<br>
+
+[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0a0e27)](#)
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -82,7 +184,7 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0f380f&logo=gamepad&logoColor=white)](#)
+[![Web Game](https://img.shields.io/badge/Web_Game-8bac0f?style=for-the-badge&labelColor=0a0e27&logo=gamepad&logoColor=white)](#)
 
 </div>
 
@@ -92,9 +194,9 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HtmlService-iran&show_icons=true&theme=dark&bg_color=0f380f&title_color=9bbc0f&icon_color=8bac0f&text_color=e8f8a0&border_color=306230" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HtmlService-iran&show_icons=true&theme=dark&bg_color=0a0e27&title_color=a29bfe&icon_color=ff00c8&text_color=ffffff&border_color=2d3561" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtmlService-iran&layout=compact&theme=dark&bg_color=0f380f&title_color=9bbc0f&text_color=e8f8a0&border_color=306230" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtmlService-iran&layout=compact&theme=dark&bg_color=0a0e27&title_color=a29bfe&text_color=ffffff&border_color=2d3561" />
 
 </div>
 
@@ -105,7 +207,8 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-HtmlService--iran-181717?style=for-the-badge&logo=github)](https://github.com/HtmlService-iran)
-[![Project](https://img.shields.io/badge/Star--Project-8bac0f?style=for-the-badge&labelColor=0f380f&logo=github)](https://github.com/HtmlService-iran/Star-Project/)
+[![Project](https://img.shields.io/badge/Star--Project-ff00c8?style=for-the-badge&labelColor=0a0e27&logo=github)](https://github.com/HtmlService-iran/Star-Project/)
+[![Website](https://img.shields.io/badge/Website-Live-00ff88?style=for-the-badge&labelColor=0a0e27&logo=googlechrome&logoColor=white)](https://htmlservice-iran.github.io/Star-Project/)
 
 </div>
 
@@ -117,10 +220,10 @@ Whether it's a small website or a browser game, my goal is always the same: **cr
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
 
-**[🐛 Report Bug](https://github.com/HtmlService-iran/Star-Project/issues)** • **[💡 Suggest Idea](https://github.com/HtmlService-iran/Star-Project/issues)**
+**[🎮 Play NEON BREAKER](https://htmlservice-iran.github.io/Star-Project/Game_File/Game_Html_1.html)** • **[🐛 Report Bug](https://github.com/HtmlService-iran/Star-Project/issues)** • **[💡 Suggest Idea](https://github.com/HtmlService-iran/Star-Project/issues)**
 
 <br>
 
-<sub>Made with 💚 and ☕ by [Mr.HTML](https://github.com/HtmlService-iran)</sub>
+<sub>Made with 💜 and ☕ by [Mr.HTML](https://github.com/HtmlService-iran)</sub>
 
 </div>
