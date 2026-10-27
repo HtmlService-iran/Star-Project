@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f380f&height=200&section=header&text=Mr.HTML&fontSize=50&fontColor=9bbc0f&animation=fadeIn&fontAlignY=38&desc=HTML%20Game%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f380f&height=200&section=header&text=Mr.HTML&fontSize=50&fontColor=9bbc0f&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Game%20Lover&descAlignY=58&descSize=20" width="100%"/>
 
 # 🎮 Hey, I'm Mr.HTML!
 
-### I build web games with pure HTML, CSS & JavaScript 🚀
+### Web Developer • Game Enthusiast • Website Creator 🚀
 
-[![Games](https://img.shields.io/badge/GAMES-5-8bac0f?style=for-the-badge&labelColor=0f380f)](#-my-games)
-[![Ready](https://img.shields.io/badge/READY-1-brightgreen?style=for-the-badge)](#-my-games)
-[![Coming Soon](https://img.shields.io/badge/COMING_SOON-4-yellow?style=for-the-badge)](#-my-games)
+[![Status](https://img.shields.io/badge/STATUS-BUILDING-8bac0f?style=for-the-badge&labelColor=0f380f)](#)
+[![Games](https://img.shields.io/badge/GAMES-COMING_SOON-yellow?style=for-the-badge)](#-my-games)
 [![Vanilla JS](https://img.shields.io/badge/VANILLA_JS-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <br>
@@ -21,20 +20,32 @@
 
 ## 👋 About Me
 
-Hi there! 👋 I'm **Mr.HTML** — a passionate **web developer** and **game lover** who builds simple, fast, and fun browser games using **pure HTML, CSS, and JavaScript**.
+Hi there! 👋 I'm **Mr.HTML** — a passionate **web developer**, **website creator**, and a huge **game lover** who enjoys building things for the web using **pure HTML, CSS, and JavaScript**.
 
-### 🎯 What I Do
+I've always been fascinated by how a few lines of code can turn into something interactive, fun, and useful. That passion led me to **web development**, and today I spend most of my time building **websites** and **browser games** from scratch.
 
-- 💻 **Web Developer** — I write clean, lightweight code
-- 🎮 **Game Enthusiast** — I love playing and building games
-- 🌐 **Website Creator** — I build websites from scratch
-- 🚀 **No Frameworks** — Just pure vanilla code
+### 🎯 Who I Am
 
-### ❤️ My Philosophy
+- 💻 **Web Developer** — I build clean, fast, and responsive websites
+- 🌐 **Website Creator** — From idea to live site, I handle it all
+- 🎮 **Game Lover** — Playing games is my hobby, building them is my passion
+- 🧠 **Problem Solver** — I love turning ideas into working code
+- 🚀 **Self-Learner** — Always exploring new tricks and techniques
 
-> **"Games should be simple, fun, and accessible to everyone."**
+### ❤️ What Drives Me
 
-I believe in building things with the **simplest tools possible** — no heavy libraries, no complicated frameworks. Just one HTML file and a lot of love. 🎮
+I believe that **simple things work best**. That's why I build everything with **vanilla code** — no heavy frameworks, no unnecessary libraries. Just pure HTML, CSS, and JavaScript. This keeps my projects **lightweight, fast, and easy to understand**.
+
+> **"Write less, build more, and make it fun."**
+
+Whether it's a small website or a browser game, my goal is always the same: **create something people enjoy using**.
+
+### 🌱 Currently
+
+- 🔨 Building new **web games** (coming soon!)
+- 📚 Learning more about **JavaScript** and **game logic**
+- 🎨 Improving my **UI/UX design** skills
+- 💡 Exploring new ideas for **interactive websites**
 
 ---
 
@@ -42,56 +53,24 @@ I believe in building things with the **simplest tools possible** — no heavy l
 
 <div align="center">
 
-### 🐍 Ready to Play!
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-<h2>🐍 NOKIA SNAKE</h2>
-
-<img src="https://img.shields.io/badge/READY_TO_PLAY-brightgreen?style=for-the-badge" alt="ready">
-
-<br><br>
-
-The classic Nokia 3310 snake game — the one we all played on our old phones!
-
-**Features:** Pixel graphics • Speed boost • Touch & keyboard controls
-
-<br>
-
-### [![PLAY NOW](https://img.shields.io/badge/PLAY_NOW-8bac0f?style=for-the-badge&labelColor=0f380f&logo=gamepad&logoColor=white)](https://msyady513-crypto.github.io/Mr.HTML/)
-
-**[👆 Click here to play!](https://msyady513-crypto.github.io/Mr.HTML/)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### ⏳ Coming Soon...
-
-<div align="center">
+### ⏳ Something Awesome Is Coming...
 
 <table>
 <tr>
 
 <td align="center" width="50%">
 
-<h3>🧱 TETRIS</h3>
+<h3>🎮 GAME #1</h3>
 
 <img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
 
 <br><br>
 
-Stack the blocks, clear the lines, beat your record!
+A brand new browser game is on the way.
 
 <br><br>
 
-`🎨 Classic Graphics` • `🎮 Simple Controls`
+`🎨 Pixel Graphics` • `🎮 Simple Controls`
 
 <br>
 
@@ -101,17 +80,17 @@ Stack the blocks, clear the lines, beat your record!
 
 <td align="center" width="50%">
 
-<h3>🏓 PONG</h3>
+<h3>🎮 GAME #2</h3>
 
 <img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
 
 <br><br>
 
-Bounce the ball, score points, beat your opponent!
+Another fun game is being built right now.
 
 <br><br>
 
-`🕹️ Single Player` • `🎯 AI Challenge`
+`🕹️ Classic Style` • `📱 Mobile Friendly`
 
 <br>
 
@@ -125,17 +104,17 @@ Bounce the ball, score points, beat your opponent!
 
 <td align="center" width="50%">
 
-<h3>🧠 MEMORY</h3>
+<h3>🎮 GAME #3</h3>
 
 <img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
 
 <br><br>
 
-Flip the cards, find the pairs, train your memory!
+Stay tuned — this one will be worth the wait.
 
 <br><br>
 
-`🃏 Card Matching` • `🏆 High Score`
+`🎯 Fun Gameplay` • `🏆 High Score`
 
 <br>
 
@@ -145,17 +124,41 @@ Flip the cards, find the pairs, train your memory!
 
 <td align="center" width="50%">
 
-<h3>🔢 2048</h3>
+<h3>🎮 GAME #4</h3>
 
 <img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
 
 <br><br>
 
-Merge the numbers, reach 2048, challenge your brain!
+A new challenge is almost ready to launch.
 
 <br><br>
 
-`🎯 Number Puzzle` • `📱 Swipe Controls`
+`🧠 Brain Teaser` • `⚡ Fast Paced`
+
+<br>
+
+[![Coming Soon](https://img.shields.io/badge/COMING_SOON-306230?style=for-the-badge&labelColor=0f380f)](#)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100%" colspan="2">
+
+<h3>🎮 GAME #5</h3>
+
+<img src="https://img.shields.io/badge/COMING_SOON-yellow?style=for-the-badge" alt="coming soon">
+
+<br><br>
+
+The final one is in the making — expect something special.
+
+<br><br>
+
+`✨ Surprise` • `🎁 Worth Waiting`
 
 <br>
 
@@ -198,16 +201,6 @@ Merge the numbers, reach 2048, challenge your brain!
 
 ---
 
-## 💡 What I'm Working On
-
-- 🐍 **Nokia Snake** — ✅ Done and playable!
-- 🧱 **Tetris** — 🔨 In progress
-- 🏓 **Pong** — 📝 Planning
-- 🧠 **Memory Game** — 📝 Planning
-- 🔢 **2048** — 📝 Planning
-
----
-
 ## 📬 Contact Me
 
 <div align="center">
@@ -220,11 +213,11 @@ Merge the numbers, reach 2048, challenge your brain!
 
 <div align="center">
 
-### ⭐ If you like my games, give me a star! ⭐
+### ⭐ Stay tuned — big things are coming! ⭐
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
 
-**[🎮 Play Now!](https://msyady513-crypto.github.io/Mr.HTML/)** • **[🐛 Report Bug](https://github.com/msyady513-crypto/Mr.HTML/issues)** • **[💡 Suggest Idea](https://github.com/msyady513-crypto/Mr.HTML/issues)**
+**🐛 [Report Bug](https://github.com/msyady513-crypto/Mr.HTML/issues)** • **💡 [Suggest Idea](https://github.com/msyady513-crypto/Mr.HTML/issues)**
 
 <br>
 
