@@ -40,7 +40,7 @@
 
 <h3>🏃‍♂️ STAR RUNNER</h3>
 <p>بازی دوی بی‌نهایت با گرافیک نئونی، دابل‌جامپ و لیزر!</p>
-<a href="https://htmlservice-iran.github.io/Star-Project/Game_File/runner.html">
+<a href="https://htmlservice-iran.github.io/Star-Project/Game_File/Game_File_1.html">
   <img src="https://img.shields.io/badge/PLAY_NOW-00ffff?style=for-the-badge&labelColor=050505&logo=gamepad&logoColor=white" alt="Play Runner">
 </a>
 
