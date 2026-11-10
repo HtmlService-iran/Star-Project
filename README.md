@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f380f&height=200&section=header&text=Star%20Project&fontSize=55&fontColor=a29bfe&animation=fadeIn&fontAlignY=38&desc=Games%20%7C%20Web%20Tools%20%7C%20Desktop%20Apps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27&height=200&section=header&text=StarProject%20HelpDesk&fontSize=45&fontColor=00d2ff&animation=fadeIn&fontAlignY=38&desc=Modern%20Ticket%20System%20%7C%20VIP%20Features&descAlignY=58&descSize=18" width="100%"/>
 
-# ⭐ StarProject
+# ⭐ StarProject - HelpDesk System
 
-### از بازی‌های مرورگری تا نرم‌افزارهای دسکتاپ! 🚀
+### نرم‌افزار پشتیبانی دسکتاپ با امکانات VIP و رابط کاربری مدرن 🚀
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-121212?style=for-the-badge&logo=python&logoColor=white)](#)
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1a1a1a?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
+[![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br>
 
@@ -20,94 +19,50 @@
 
 ---
 
-## 📖 درباره پروژه (About StarProject)
+## 📖 درباره پروژه (About)
 
-سلام! 👋 من **Mr.HTML** هستم و این ریپازیتوری (StarProject) خونه‌ی تمام ایده‌های منه. 
+این ریپازیتوری شامل نسخه دسکتاپ سیستم پشتیبانی **StarProject** است. 
+ما این سیستم را با استفاده از **پایتون (Python)** و کتابخانه **CustomTkinter** طراحی کرده‌ایم تا کاربران بتوانند به راحتی با تیم پشتیبانی در ارتباط باشند.
 
-ما توی این پروژه از **HTML، CSS و JavaScript خالص** برای ساخت بازی‌های مرورگری (بدون هیچ کتابخانه سنگینی) استفاده می‌کنیم. علاوه بر این، با **پایتون (Python)** یک نرم‌افزار دسکتاپ کامل برای سیستم پشتیبانی (Ticket System) ساختیم که به دیتابیس ابری و گیت‌هاب متصل است.
-
----
-
-## 🎮 بخش بازی‌های وب (Web Games)
-
-بدون نیاز به نصب هیچ برنامه‌ای! همین الان توی مرورگرت بازی کن:
-
-<div align="center">
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<h3>🏃‍♂️ STAR RUNNER</h3>
-<p>بازی دوی بی‌نهایت با گرافیک نئونی، دابل‌جامپ و لیزر!</p>
-<a href="https://htmlservice-iran.github.io/Star-Project/Game_File/Game_Html_2.html">
-  <img src="https://img.shields.io/badge/PLAY_NOW-00ffff?style=for-the-badge&labelColor=050505&logo=gamepad&logoColor=white" alt="Play Runner">
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-<h3>🧱 NEON BREAKER</h3>
-<p>بازی کلاسیک دیوارشکن (Breakout) با تم فوق‌العاده نئونی.</p>
-<a href="https://htmlservice-iran.github.io/Star-Project/Game_File/Game_Html_1.html">
-  <img src="https://img.shields.io/badge/PLAY_NOW-ff00c8?style=for-the-badge&labelColor=050505&logo=gamepad&logoColor=white" alt="Play Breaker">
-</a>
-
-</td>
-
-</tr>
-</table>
-</div>
+سیستم از یک دیتابیس ابری (**Supabase**) برای مدیریت کاربران استفاده می‌کند و تیکت‌ها را مستقیماً از طریق **GitHub API** در بخش Issues ثبت می‌کند.
 
 ---
 
-## 💻 نرم‌افزار پشتیبانی (Desktop App)
+## ✨ ویژگی‌های برنامه
 
-ما یک سیستم پشتیبانی کامل (Help Desk) با استفاده از **پایتون** و **CustomTkinter** ساختیم. 
-این برنامه شامل دو نسخه است:
+### ۱. سیستم کاربری (Client)
+- 🔐 **ثبت‌نام و ورود امن:** رمزهای عبور با الگوریتم SHA-256 هش می‌شوند.
+- 🎫 **ارسال تیکت:** ارسال مستقیم تیکت به گیت‌هاب همراه با مشخصات کاربر.
+- 📋 **تاریخچه تیکت‌ها:** مشاهده لیست تیکت‌ها و پاسخ‌های ارسال شده توسط پشتیبانی.
+- 👤 **پروفایل کاربری:** تغییر نام کاربری و تغییر رمز عبور.
+- 🌐 **لینک‌های ارتباطی:** دسترسی سریع به وب‌سایت و گیت‌هاب پروژه.
 
-### ۱. برنامه کاربر (Client)
-- ثبت‌نام و لاگین امن (متصل به **Supabase Cloud**)
-- ارسال تیکت مستقیم به **GitHub Issues**
-- مشاهده تاریخچه تیکت‌ها و پاسخ‌های ادمین
-- رابط کاربری مدرن با ۳ تم رنگی (طلایی، قرمز، آبی)
+### ۲. امکانات VIP
+- ⏱️ **پشتیبانی اولویت‌دار:** تیکت‌های VIP با برچسب `[VIP-PRIORITY]` در بالای لیست ادمین قرار می‌گیرند.
+- 👑 **تم‌های اختصاصی:** دسترسی به تم‌های رنگی خاص (سایبرپانک، ماتریکس، لوکس) فقط برای کاربران VIP.
+- 🎁 **دریافت VIP:** امکان دادن اشتراک VIP (با تعیین تعداد روز) توسط ادمین.
 
-### ۲. پنل مدیریت (Admin Panel)
-- لاگین با رمز اختصاصی
-- مشاهده، پاسخ دادن و بستن تیکت‌ها
-- دریافت نوتیفیکیشن (اعلان) در صورت دریافت تیکت جدید
-
-<div align="center">
-
-**[⬇️ دانلود آخرین نسخه (Download Latest Release)](https://github.com/HtmlService-iran/Star-Project/releases)**
-
-</div>
+### ۳. پنل مدیریت (Admin Panel)
+- 🔑 **ورود با رمز اختصاصی:** امنیت بالا برای جلوگیری از دسترسی غیرمجاز.
+- 🎫 **مدیریت تیکت‌ها:** مشاهده، پاسخ دادن، بستن و حذف کامل تیکت‌ها.
+- 👥 **مدیریت کاربران:** مشاهده لیست کاربران و دادن/گرفتن اشتراک VIP.
+- 💻 **مشخصات سیستم:** مشاهده IP و سیستم‌عامل کاربرانی که وارد برنامه شده‌اند.
 
 ---
 
-## 🛠️ تکنولوژی‌های استفاده شده
+## 🖼️ محیط برنامه (UI)
 
-- **Frontend (Web):** HTML5 Canvas, CSS3, Vanilla JavaScript
-- **Desktop App:** Python 3, CustomTkinter
-- **Database:** Supabase (PostgreSQL)
-- **Ticket System:** GitHub REST API
-
----
-
-## 🤝 مشارکت و ارتباط
-
-هر ایده‌ای برای بازی‌های جدید یا بهبود برنامه‌ها داری؟ خوشحال می‌شم بشنوم!
-
-[![GitHub](https://img.shields.io/badge/GitHub-HtmlService--iran-181717?style=for-the-badge&logo=github)](https://github.com/HtmlService-iran)
-[![Website](https://img.shields.io/badge/Website-Live-00ff88?style=for-the-badge&labelColor=0a0e27&logo=googlechrome&logoColor=white)](https://htmlservice-iran.github.io/Star-Project/)
+- 🎨 **تم تاریک و مدرن (Dark Theme)**
+- 🌈 **پشتیبانی از ۴ تم رنگی:** طلایی، آبی، نئون قرمز، ماتریکس
+- ✨ **افکت شیشه‌ای (Glassmorphism)** در کارت‌ها و منوها
+- ⚡ **انیمیشن‌های نرم** هنگام جابجایی بین صفحات
 
 ---
 
-<div align="center">
+## 🛠️ نحوه اجرا (Installation)
 
-### ⭐ اگه از پروژه‌ها خوشت اومد، یه ستاره بده! ⭐
+برای اجرای برنامه، به **پایتون نسخه 3.8 یا بالاتر** نیاز دارید.
 
-<sub>Made with 💚 and ☕ by [Mr.HTML](https://github.com/HtmlService-iran)</sub>
-
-</div>
+**۱. نصب کتابخانه‌های مورد نیاز:**
+```bash
+pip install customtkinter requests
