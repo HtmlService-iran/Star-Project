@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27&height=200&section=header&text=HtmlService-iran&fontSize=50&fontColor=00d2ff&animation=fadeIn&fontAlignY=38&desc=Web%20Games%20%7C%20HTML%20Projects&descAlignY=58&descSize=18" width="100%"/>
+
 # 🎮 HtmlService-iran
 
-سازنده بازی‌های وب و پروژه‌های HTML
+### سازنده بازی‌های وب و پروژه‌های HTML
+
+</div>
 
 ---
 
@@ -34,4 +40,8 @@
 
 ---
 
+<div align="center">
+
 ساخته شده با 💚 توسط HtmlService-iran
+
+</div>
